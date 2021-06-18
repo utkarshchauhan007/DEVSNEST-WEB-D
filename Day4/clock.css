@@ -1,0 +1,36 @@
+.dial{
+    height:20vw ;
+    width:20vw ;
+    margin: auto ;
+    
+    border:30px solid red ;
+    border-radius:10000vw ;
+
+ }
+ .one, .two, .three{
+     background: black;
+     position: relative;
+     border-radius: 30rem;
+     margin :auto ;
+ }
+ .one{
+height: 10vw;
+width: 0.5vw ;
+
+
+
+
+ }
+ .two{
+    height: 10vw;
+    width: 0.5vw ;
+    bottom: 50% ;
+    
+ }
+ .three{
+    height: 10vw;
+    width: 0.5vw ;
+    bottom: 100% ;
+    
+
+ }
