@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    position: relative;
+    margin-top:20% ;
+    border: 4px solid yellow;
+    width: 31vw ;
+    margin: auto ;
+    background: yellow;
+}
+table{
+    margin: auto ;
+    position:relative ; 
+}
+input{
+    position:relative ;
+    font-size: 30px;
+    width: 28vw ;
+    height: 4vw ;
+    border: 6px solid green ;
+
+}
+button{
+    position: relative;
+    font-size: 4vw;
+    background: chartreuse;
+    width: 7vw;
+    height: 6vw;
+    border-radius: 3vw;
+}
