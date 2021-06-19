@@ -1,4 +1,4 @@
-console.log("DAY-7 \nObject Programs:-\n");
+
 //1. Write a JavaScript program to list the properties of a JavaScript object. 
 // question no. 1
 console.log("Program no. 1\n");
