@@ -1,0 +1,45 @@
+.screen{
+    height:7rem ;
+    width:50%;
+    background-color: yellow ;
+    border:13px solid grey ;
+    border-top-color: brown;
+    margin:auto ;
+}
+.stage{
+    background-color: rgb(230, 36, 36);
+}
+body{
+    background-color:rgb(49, 30, 30);
+    
+}
+table{
+    height:10rem ;
+    width:10rem ;
+    table-layout: fixed;
+    margin:auto;
+    margin-top:1rem ;
+    
+}
+td{ 
+    height:2rem ;
+    width :2rem ;
+
+    /* border-radius: 1rem ; */
+    border: 3px solid black ;
+    background:red ;
+    opacity: 0.3;
+}
+.scr{
+    margin-left: 46%;
+   background-color: yellow;
+   font-weight:bold ; 
+}
+
+td:hover{
+    background: green;
+}
+.green{
+    background: green;
+    opacity: 1;
+}
