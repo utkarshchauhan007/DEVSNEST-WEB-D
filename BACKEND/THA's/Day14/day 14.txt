@@ -22,10 +22,4 @@ Auto ->
 - using jwt
 - install 
 - require use as middleware
-- initialse in different folder
-- boiler code
-
-
-Save role in dB then on login save in session 
-when requesting a content check for role in session through redis
-
+- initialse 
